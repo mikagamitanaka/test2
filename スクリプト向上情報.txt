@@ -3,8 +3,7 @@
 またコマンドは直接記述することも可能だが、もしミスがあった場合はセルが赤くなり、
 さらにエラーの行にすぐジャンプして修正できる。
 
-tititiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-
+tititiaaaaaaaaaaaaaaaaaatititiaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 saisi huf
 
 dflskdfkd
